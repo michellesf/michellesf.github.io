@@ -1,0 +1,37 @@
+.intro {
+    color: aqua;
+    background-color: bisque;
+}
+
+.intro img {
+    height:400px;
+    width:550px
+}
+
+
+
+.my_projects {
+    color:bisque;
+    background-color: aqua;
+    height: auto;
+}
+
+
+
+.my_projects .col-xs-4 {
+    color: aqua;
+    background-color: bisque;   
+}
+
+
+
+.contact {
+    background-color:aqua;
+    color: bisque;
+}
+
+
+.contact .col-xs-4 {
+    color:aqua;
+    background-color:bisque;
+}
